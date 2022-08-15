@@ -22,25 +22,25 @@ Simple decision support system application with AHP method.
 
 - Add and Edit Page
 
-![img 1](Screenshot/add_page.jpeg)
-![img 1](Screenshot/edit_page.jpeg)
+![img 4](Screenshot/add_page.jpeg)
+![img 5](Screenshot/edit_page.jpeg)
 
 - Input Value of Criteria
 
-![img 1](Screenshot/input_value.jpeg)
+![img 6](Screenshot/input_value.jpeg)
 
 - Normalization of Criteria
 
-![img 1](Screenshot/normalization_calc.jpeg)
+![img 7](Screenshot/normalization_calc.jpeg)
 
 - Input Value of Alternative
 
-![img 1](Screenshot/input_alternative_com.jpeg)
+![img 8](Screenshot/input_alternative_com.jpeg)
 
 - Normalization of Alternative
 
-![img 1](Screenshot/normalization_calc2.jpeg)
+![img 9](Screenshot/normalization_calc2.jpeg)
 
 - Final Result
 
-![img 1](Screenshot/final_result.jpeg) 
+![img 10](Screenshot/final_result.jpeg) 
