@@ -4,13 +4,17 @@ Simple decision support system application with AHP method.
 ## Installation
 - create new database in MySQL server (phpMyAdmin)
 - edit file config.php
-- import database/database.sql into your new database
+- import database(.sql) into your new database
 - run your website
 
 ## Screenshot
+- Home Page
 
-![img 1] img src="Screenshot/add_page.png" alt="halaman kriteria" style="width: 250px;"/>
+![img 1](Screenshot/db.jpeg)
 
-<img src="screenshot/2.png" alt="matriks nilai kriteria" style="width: 250px;"/>
+- Criteria
 
-<img src="screenshot/3.png" alt="hasil perhitungan" style="width: 250px;"/>
+![img 2](Screenshot/criteria.jpeg)
+
+- Alternative
+![img 3](Screenshot/alternative.jpeg)
